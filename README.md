@@ -12,7 +12,8 @@ Top 10 venues with most matches and wining based on Bat first & Field First
 I have also added macro VBA for background music of IPL to look intereactive Dashboard 
 
 I have also added slicer year wise to see who is winner, runner up, man of the match, player of the series by seaseon year wise.
-![IPL dashboard](https://github.com/user-attachments/assets/f44344be-b214-45c9-8d75-b04dd874034c)
+![IPL dashboard](https://github.com/user-attachments/assets/9d9d95bb-b4a8-4127-8b41-1bd3ba1571e6)
+
 
 
 
