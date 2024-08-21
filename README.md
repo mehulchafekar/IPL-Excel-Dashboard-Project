@@ -29,6 +29,12 @@ I have also added slicer year wise to see who is winner, runner up, man of the m
 
 
 
+SOURCE OF DATASET:
+
+Kaggle.com is one of the best websites for downloading datasets. I have downloaded IPL dataset from 2008 to 2020.
+
+The link for my dataset source is: -
+https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
 
 
