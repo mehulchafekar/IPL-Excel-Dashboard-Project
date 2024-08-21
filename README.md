@@ -2,7 +2,7 @@
 ![ipl gif](https://github.com/user-attachments/assets/e6388997-7588-4174-b4e6-393c3e3dfa87)
 A comprehensive Excel-based dashboard designed to analyze and visualize data from the Indian Premier League (IPL). This project includes interactive charts, performance metrics, and statistical insights to enhance the understanding of team and player performances throughout the season.
 
-IPL is a popular cricket series played annually in India since 2007. So, I have generated a lot of data since then which helps in prediction of the future performances of teams and players. I have analysed the data which covers the various objectives-
+IPL is a popular cricket series played annually in India since 2008. So, I have generated a lot of data since then which helps in prediction of the future performances of teams and players. I have analysed the data which covers the various objectives-
 
 Total matches win by teams wrt bat first & feild first 
 
@@ -31,7 +31,7 @@ I have also added slicer year wise to see who is winner, runner up, man of the m
 
 SOURCE OF DATASET:
 
-Kaggle.com is one of the best websites for downloading datasets. I have downloaded IPL dataset from 2008 to 2020.
+Kaggle.com is one of the best websites for downloading datasets. I have downloaded IPL dataset from 2008 to 2024.
 
 The link for my dataset source is: -
 https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
